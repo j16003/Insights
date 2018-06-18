@@ -22,7 +22,7 @@ import java.util.Map;
 	        this.dbname = "sangi2018";
 	        this.url = "jdbc:mysql://" + server + "/" + dbname + "?useUnicode=true&characterEncoding=UTF-8";
 	        this.user = "sangi2018";
-	        this.password = "sistsangi2018";
+	        this.password = "J16003";
 	        this.id = "J16003";
 	        try {
 	            this.con = DriverManager.getConnection(url, user, password);
